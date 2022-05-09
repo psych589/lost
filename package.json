@@ -1,0 +1,27 @@
+{
+  "name": "fnbrbot",
+  "version": "1.0.0",
+  "description": "A powerful fortnite lobby bot written in Node.js and powered by the fnbr library",
+  "main": "index.js",
+  "homepage": "https://github.com/47PADO47/FnBrBot#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/47PADO47/FnBrBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/47PADO47/FnBrBot/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "PADO",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "fnbr": "^1.4.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1"
+  }
+}
